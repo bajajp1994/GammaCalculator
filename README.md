@@ -1,7 +1,3 @@
-This is personal repository for Software engineering process
-My Personal Details: amitsachdeva45@gmail.com 40084627
-
-**Function 5: Gamma Function**
 
 This function is divided into 2 parts:
 1) For Integer value
